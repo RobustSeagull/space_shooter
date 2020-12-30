@@ -1,0 +1,9 @@
+[package]
+name = "astroblast"
+version = "0.1.0"
+authors = ["RobustSeagull <adrien.bourgine@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.4"
+rand = "0.7.3"
